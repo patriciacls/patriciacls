@@ -1,13 +1,6 @@
 ### Opa! 👋
 ##
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patriciacls&layout=compact)
-##
-- 🔭 I’m currently working on Support Analyst. I graduated in data science and exploring the development area.
-- 🌱 I’m currently learning languages ​​focused on data science but exploring development.
-- 💬 Ask me about everything :)
-- ⚡ Fun fact: I spend my time listening to a lot of music, I love it.
-
-##
 
 <div> 
     <a href="https://instagram.com/patriciacls" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
